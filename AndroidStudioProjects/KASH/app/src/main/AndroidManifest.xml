@@ -14,7 +14,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".emergency_contact" />
+        <activity android:name=".emergency_contact"/>
         <activity android:name=".update_profile" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
