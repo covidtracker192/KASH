@@ -1408,6 +1408,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable doc
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable green
@@ -1610,6 +1611,7 @@ id filter_chip
 id fitToContents
 id fixed
 id forever
+id frameLayout
 id ghost_view
 id ghost_view_holder
 id gone
@@ -1638,6 +1640,7 @@ id imageView4
 id imageView5
 id imageView6
 id imageView7
+id imageView8
 id imageView9
 id info
 id invisible

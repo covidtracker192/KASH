@@ -80,6 +80,10 @@
         "source": "C:\\Users\\admin\\Desktop\\Projects\\KASH project\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "C:\\Users\\admin\\Desktop\\Projects\\KASH project\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doc.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Projects\\KASH project\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\doc.png"
+    },
+    {
         "merged": "C:\\Users\\admin\\Desktop\\Projects\\KASH project\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_home.xml.flat",
         "source": "C:\\Users\\admin\\Desktop\\Projects\\KASH project\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout-land\\activity_home.xml"
     },
