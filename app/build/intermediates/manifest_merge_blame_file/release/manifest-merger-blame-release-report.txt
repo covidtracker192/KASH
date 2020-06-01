@@ -1,0 +1,347 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.kash"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+11-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:5:5-85
+11-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:5:22-82
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:7:5-77
+13-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:7:22-74
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\7568ba76e7ca3967850522f169ef779d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\7568ba76e7ca3967850522f169ef779d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\7568ba76e7ca3967850522f169ef779d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\7568ba76e7ca3967850522f169ef779d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\7568ba76e7ca3967850522f169ef779d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+20
+21    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+21-->[com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\80b4d51e4add75a11a62c14e8b9bd7af\jetified-play-services-measurement-api-17.4.0\AndroidManifest.xml:24:5-68
+21-->[com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\80b4d51e4add75a11a62c14e8b9bd7af\jetified-play-services-measurement-api-17.4.0\AndroidManifest.xml:24:22-65
+22    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+22-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:5-82
+22-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:26:22-79
+23    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+23-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:26:5-110
+23-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:26:22-107
+24
+25    <application
+25-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:10:5-92:19
+26        android:allowBackup="true"
+26-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:11:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.1.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\bcfc0b80df78591183083cc148e1cf2c\core-1.1.0\AndroidManifest.xml:24:18-86
+28        android:extractNativeLibs="false"
+29        android:icon="@drawable/kashicon"
+29-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:12:9-42
+30        android:label="@string/app_name"
+30-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:13:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:14:9-54
+32        android:supportsRtl="true"
+32-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:15:9-35
+33        android:theme="@style/AppTheme" >
+33-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:16:9-40
+34        <activity android:name="com.example.kash.post_forum" />
+34-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:17:9-57
+34-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:17:19-45
+35        <activity
+35-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:18:9-21:59
+36            android:name="com.example.kash.forum"
+36-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:19:13-34
+37            android:label="@string/title_activity_forum"
+37-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:20:13-57
+38            android:theme="@style/AppTheme.NoActionBar" />
+38-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:21:13-56
+39        <activity android:name="com.example.kash.password_change" />
+39-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:22:9-53
+39-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:22:19-50
+40        <activity
+40-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:23:9-26:59
+41            android:name="com.example.kash.about_worker"
+41-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:24:13-41
+42            android:label="@string/title_activity_about_worker"
+42-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:25:13-64
+43            android:theme="@style/AppTheme.NoActionBar" />
+43-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:26:13-56
+44        <activity android:name="com.example.kash.settings_worker" />
+44-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:27:9-53
+44-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:27:19-50
+45        <activity android:name="com.example.kash.worker_home" />
+45-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:28:9-49
+45-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:28:19-46
+46
+47        <service
+47-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:30:9-33:39
+48            android:name="com.example.kash.locationupdate"
+48-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:31:13-43
+49            android:enabled="true"
+49-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:32:13-35
+50            android:exported="true" />
+50-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:33:13-36
+51
+52        <activity
+52-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:35:9-38:59
+53            android:name="com.example.kash.About"
+53-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:36:13-34
+54            android:label="@string/title_activity_about"
+54-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:37:13-57
+55            android:theme="@style/AppTheme.NoActionBar" />
+55-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:38:13-56
+56        <activity android:name="com.example.kash.preventive_measure" />
+56-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:39:9-56
+56-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:39:19-53
+57        <activity android:name="com.example.kash.emergency_contact" />
+57-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:40:9-55
+57-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:40:19-52
+58        <activity android:name="com.example.kash.update_profile" />
+58-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:41:9-52
+58-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:41:19-49
+59        <!--
+60             The API key for Google Maps-based APIs is defined as a string resource.
+61             (See the file "res/values/google_maps_api.xml").
+62             Note that the API key is linked to the encryption key used to sign the APK.
+63             You need a different API key for each encryption key, including the release key that is used to
+64             sign the APK for publishing.
+65             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+66        -->
+67        <activity
+67-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:50:9-52:65
+68            android:name="com.example.kash.Test_MapsActivity"
+68-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:51:13-46
+69            android:label="@string/title_activity_test__maps" />
+69-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:52:13-62
+70        <activity android:name="com.example.kash.settings" />
+70-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:53:9-46
+70-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:53:19-43
+71        <activity android:name="com.example.kash.login_worker" />
+71-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:54:9-50
+71-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:54:19-47
+72        <activity android:name="com.example.kash.login_global" />
+72-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:55:9-50
+72-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:55:19-47
+73        <activity android:name="com.example.kash.patient_num" />
+73-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:56:9-49
+73-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:56:19-46
+74        <activity android:name="com.example.kash.confirm" />
+74-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:57:9-45
+74-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:57:19-42
+75        <activity android:name="com.example.kash.mark_worker" />
+75-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:58:9-49
+75-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:58:19-46
+76        <activity
+76-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:59:9-61:64
+77            android:name="com.example.kash.UserMapsActivity"
+77-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:60:13-45
+78            android:label="@string/title_activity_user_maps" />
+78-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:61:13-61
+79        <activity android:name="com.example.kash.profile" />
+79-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:62:9-45
+79-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:62:19-42
+80        <!--
+81             The API key for Google Maps-based APIs is defined as a string resource.
+82             (See the file "res/values/google_maps_api.xml").
+83             Note that the API key is linked to the encryption key used to sign the APK.
+84             You need a different API key for each encryption key, including the release key that is used to
+85             sign the APK for publishing.
+86             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+87        -->
+88        <activity android:name="com.example.kash.checking" />
+88-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:71:9-46
+88-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:71:19-43
+89        <activity android:name="com.example.kash.home" />
+89-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:72:9-42
+89-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:72:19-39
+90        <activity android:name="com.example.kash.verify_phone" />
+90-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:73:9-50
+90-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:73:19-47
+91        <activity android:name="com.example.kash.user_verification" />
+91-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:74:9-55
+91-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:74:19-52
+92        <activity android:name="com.example.kash.login_user" />
+92-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:75:9-48
+92-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:75:19-45
+93        <activity android:name="com.example.kash.MainActivity" >
+93-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:76:9-82:20
+93-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:76:19-47
+94            <intent-filter>
+94-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:77:13-81:29
+95                <action android:name="android.intent.action.MAIN" />
+95-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:78:17-69
+95-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:78:25-66
+96
+97                <category android:name="android.intent.category.LAUNCHER" />
+97-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:80:17-77
+97-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:80:27-74
+98            </intent-filter>
+99        </activity>
+100
+101        <meta-data
+101-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:84:9-86:55
+102            android:name="com.google.android.geo.API_KEY"
+102-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:85:13-58
+103            android:value="@string/google_maps_key" />
+103-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:86:13-52
+104
+105        <service
+105-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:88:9-91:39
+106            android:name="com.example.kash.Location_Services"
+106-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:89:13-46
+107            android:enabled="true"
+107-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:90:13-35
+108            android:exported="true" />
+108-->C:\Users\Siddhartha\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:91:13-36
+109
+110        <activity
+110-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
+111            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+111-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
+112            android:excludeFromRecents="true"
+112-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
+113            android:exported="true"
+113-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
+114            android:launchMode="singleTask"
+114-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
+115            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+115-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
+116            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+116-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
+117
+118        <service
+118-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:33:9-39:19
+119            android:name="com.google.firebase.components.ComponentDiscoveryService"
+119-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:34:13-84
+120            android:directBootAware="true"
+120-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+121            android:exported="false" >
+121-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:35:13-37
+122            <meta-data
+122-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
+123                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+123-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
+124                android:value="com.google.firebase.components.ComponentRegistrar" />
+124-->[com.google.firebase:firebase-auth:19.3.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a965e02da0dc74b3cb82526fa169fefe\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
+125            <meta-data
+125-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a858482f0d85511048b88d680e761880\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+126                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+126-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a858482f0d85511048b88d680e761880\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+127                android:value="com.google.firebase.components.ComponentRegistrar" />
+127-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\a858482f0d85511048b88d680e761880\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+128            <meta-data
+128-->[com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\80b4d51e4add75a11a62c14e8b9bd7af\jetified-play-services-measurement-api-17.4.0\AndroidManifest.xml:30:13-32:85
+129                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+129-->[com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\80b4d51e4add75a11a62c14e8b9bd7af\jetified-play-services-measurement-api-17.4.0\AndroidManifest.xml:31:17-139
+130                android:value="com.google.firebase.components.ComponentRegistrar" />
+130-->[com.google.android.gms:play-services-measurement-api:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\80b4d51e4add75a11a62c14e8b9bd7af\jetified-play-services-measurement-api-17.4.0\AndroidManifest.xml:32:17-82
+131            <meta-data
+131-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:32:13-34:85
+132                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+132-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:33:17-96
+133                android:value="com.google.firebase.components.ComponentRegistrar" />
+133-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:34:17-82
+134            <meta-data
+134-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\80b5e92b70a89d4f419c7604b16b139f\jetified-firebase-installations-16.2.1\AndroidManifest.xml:17:13-19:85
+135                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+135-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\80b5e92b70a89d4f419c7604b16b139f\jetified-firebase-installations-16.2.1\AndroidManifest.xml:18:17-127
+136                android:value="com.google.firebase.components.ComponentRegistrar" />
+136-->[com.google.firebase:firebase-installations:16.2.1] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\80b5e92b70a89d4f419c7604b16b139f\jetified-firebase-installations-16.2.1\AndroidManifest.xml:19:17-82
+137        </service> <!-- Needs to be explicitly declared on P+ -->
+138        <uses-library
+138-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\7568ba76e7ca3967850522f169ef779d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+139            android:name="org.apache.http.legacy"
+139-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\7568ba76e7ca3967850522f169ef779d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+140            android:required="false" />
+140-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\7568ba76e7ca3967850522f169ef779d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+141
+142        <receiver
+142-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:37:9-44:20
+143            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+143-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:38:13-78
+144            android:exported="true"
+144-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:39:13-36
+145            android:permission="com.google.android.c2dm.permission.SEND" >
+145-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:40:13-73
+146            <intent-filter>
+146-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:41:13-43:29
+147                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+147-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:17-81
+147-->[com.google.firebase:firebase-iid:20.1.5] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\8183980bc8e77d4fe843a9e6d0f0d6a0\jetified-firebase-iid-20.1.5\AndroidManifest.xml:42:25-78
+148            </intent-filter>
+149        </receiver>
+150
+151        <activity
+151-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+152            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+152-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+153            android:exported="false"
+153-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+154            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+154-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\75e7c473eccef2b3a0eec97fa3a7825b\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+155
+156        <provider
+156-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+157            android:name="com.google.firebase.provider.FirebaseInitProvider"
+157-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+158            android:authorities="com.example.kash.firebaseinitprovider"
+158-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+159            android:exported="false"
+159-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+160            android:initOrder="100" />
+160-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\3deb10f8139ef5717b3d54ada2a19ca4\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+161
+162        <receiver
+162-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:29:9-33:20
+163            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+163-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:30:13-85
+164            android:enabled="true"
+164-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:31:13-35
+165            android:exported="false" >
+165-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:32:13-37
+166        </receiver>
+167
+168        <service
+168-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:35:9-38:40
+169            android:name="com.google.android.gms.measurement.AppMeasurementService"
+169-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:36:13-84
+170            android:enabled="true"
+170-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:37:13-35
+171            android:exported="false" />
+171-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:38:13-37
+172        <service
+172-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:39:9-43:72
+173            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+173-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:40:13-87
+174            android:enabled="true"
+174-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:41:13-35
+175            android:exported="false"
+175-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:42:13-37
+176            android:permission="android.permission.BIND_JOB_SERVICE" />
+176-->[com.google.android.gms:play-services-measurement:17.4.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\63f05e64d63bc5a58b622487a32516bd\jetified-play-services-measurement-17.4.0\AndroidManifest.xml:43:13-69
+177
+178        <meta-data
+178-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+179            android:name="com.google.android.gms.version"
+179-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+180            android:value="@integer/google_play_services_version" />
+180-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Siddhartha\.gradle\caches\transforms-2\files-2.1\164bb505b81f338baa0db13edd04c1d1\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+181    </application>
+182
+183</manifest>

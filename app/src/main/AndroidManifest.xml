@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kash">
+
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/kashicon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".post_forum"></activity>
+        <activity
+            android:name=".forum"
+            android:label="@string/title_activity_forum"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".password_change" />
+        <activity
+            android:name=".about_worker"
+            android:label="@string/title_activity_about_worker"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".settings_worker" />
+        <activity android:name=".worker_home" />
+
+        <service
+            android:name=".locationupdate"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name=".About"
+            android:label="@string/title_activity_about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".preventive_measure" />
+        <activity android:name=".emergency_contact" />
+        <activity android:name=".update_profile" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <activity
+            android:name=".Test_MapsActivity"
+            android:label="@string/title_activity_test__maps" />
+        <activity android:name=".settings" />
+        <activity android:name=".login_worker" />
+        <activity android:name=".login_global" />
+        <activity android:name=".patient_num" />
+        <activity android:name=".confirm" />
+        <activity android:name=".mark_worker" />
+        <activity
+            android:name=".UserMapsActivity"
+            android:label="@string/title_activity_user_maps" />
+        <activity android:name=".profile" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <activity android:name=".checking" />
+        <activity android:name=".home" />
+        <activity android:name=".verify_phone" />
+        <activity android:name=".user_verification" />
+        <activity android:name=".login_user" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <service
+            android:name=".Location_Services"
+            android:enabled="true"
+            android:exported="true" />
+    </application>
+
+</manifest>

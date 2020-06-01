@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_user_verification.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_user_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_worker_home.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_worker_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login_worker.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_login_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_pos_del.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\pos_del.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_fetch.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\fetch.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_updatepro.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\updatepro.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_user_maps.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_user_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_verify_phone.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_verify_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_patient_num.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_patient_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_four.jpeg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\four.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_one.jpeg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\one.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_positive.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\positive.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login_global.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_login_global.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_post_forum.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\post_forum.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_home.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_preventive_measure.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_preventive_measure.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_change.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\change.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_kash.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\kash.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_dot_color.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\dot_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_covid_19_hackathon_app__splash_01.jpeg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\covid_19_hackathon_app__splash_01.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_content_about_worker.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\content_about_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_otp.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\otp.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_post.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\post.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_forum.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\menu\\menu_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_mark_worker.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_mark_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_users.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\users.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_three.jpeg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\three.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_confirm.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_register.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_assignment.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\ic_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_doc.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\doc.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_mobile.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_five.jpeg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\five.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_neg_del.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\neg_del.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_medstaff.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\medstaff.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_markpos.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\markpos.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable-xxhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_pat_detail.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\pat_detail.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_corona.jpg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\corona.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_checking.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_checking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_update_profile.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_update_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_verifybut.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\verifybut.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_content_forum.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\content_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_updateprof.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\updateprof.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_updatepass.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\updatepass.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi_ic_warning.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable-anydpi\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_update.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\update.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_about.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\menu\\menu_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable-xhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_changepass.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\changepass.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_start_image.jpeg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\start_image.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_emergency_contact.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_emergency_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_post_forum.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_post_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_about.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_healthworker.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\healthworker.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_worker_home.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\worker_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_details_up.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\details_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_about_worker.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_about_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_about_worker.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\menu\\menu_about_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_forum.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable-hdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_verify.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\verify.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_login.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_six.jpeg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\six.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_content_about.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\content_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_settings.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_password_change.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_password_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_kashicon.jpg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\kashicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_coronav.jpg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\coronav.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_markneg.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\markneg.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_two.jpeg.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\two.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_test__maps.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_test__maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_fetchpat.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\fetchpat.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_warning.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable-mdpi\\ic_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login_user.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_login_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_settings_worker.xml.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\layout\\activity_settings_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_registerbut.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\registerbut.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\build\\intermediates\\res\\merged\\release\\drawable_negative.png.flat",
+        "source": "C:\\Users\\Siddhartha\\KASH\\AndroidStudioProjects\\KASH\\app\\src\\main\\res\\drawable\\negative.png"
+    }
+]
