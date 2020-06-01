@@ -1543,16 +1543,11 @@ id blocking
 id blood
 id bottom
 id button
-id button10
 id button11
-id button2
 id button3
 id button4
 id button5
 id button6
-id button7
-id button8
-id button9
 id buttonPanel
 id cancel_button
 id center
@@ -1611,7 +1606,6 @@ id filter_chip
 id fitToContents
 id fixed
 id forever
-id frameLayout
 id ghost_view
 id ghost_view_holder
 id gone
@@ -1640,7 +1634,6 @@ id imageView4
 id imageView5
 id imageView6
 id imageView7
-id imageView8
 id imageView9
 id info
 id invisible

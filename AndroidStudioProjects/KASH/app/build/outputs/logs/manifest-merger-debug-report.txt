@@ -180,7 +180,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ad
 	android:theme
 		ADDED from C:\Users\admin\Desktop\Projects\KASH project\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.example.kash.emergency_contact
-ADDED from C:\Users\admin\Desktop\Projects\KASH project\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:17:9-55
+ADDED from C:\Users\admin\Desktop\Projects\KASH project\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:17:9-54
 	android:name
 		ADDED from C:\Users\admin\Desktop\Projects\KASH project\KASH\AndroidStudioProjects\KASH\app\src\main\AndroidManifest.xml:17:19-52
 activity#com.example.kash.update_profile
